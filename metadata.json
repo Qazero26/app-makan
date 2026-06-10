@@ -1,0 +1,6 @@
+{
+  "name": "Apa Nak Makan Tonight",
+  "description": "A fun, colorful, and mobile-friendly single-screen app that randomly selects a delicious Malaysian dish or drink for your next meal at the click of a button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
